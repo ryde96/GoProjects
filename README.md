@@ -1,7 +1,7 @@
 GoProjects
 ========
 
-This repo contains my solutions for [Martyr2’s Mega Project List](https://github.com/ryde96/GoProjects/blob/master/Numbers/pi.go).
+This repo contains my solutions for [Martyr2’s Mega Project List](https://github.com/karan/Projects).
 
 Numbers
 ---------
